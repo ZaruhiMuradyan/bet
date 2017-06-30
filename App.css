@@ -1,0 +1,8 @@
+table{
+  border: 1px solid darkblue;
+}
+td, th {
+  margin: 5px;
+  padding: 2px;
+    border: 1px solid rebeccapurple;
+}
